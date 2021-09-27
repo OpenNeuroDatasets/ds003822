@@ -1,11 +1,13 @@
 {
-  "Name": "ProbabilisticSelection",
-  "ReferencesAndLinks": ["pending"],
-  "Authors": [
-    "Darin R. Brown",
-    "Trevor Jackson",
-    "James F Cavanagh"
-  ],
-  "License": "",
-  "BIDSVersion": "1.1.1"
+    "Name": "Probabilistic Learning with Affective Feedback: Exp #1",
+    "ReferencesAndLinks": [
+        "pending"
+    ],
+    "Authors": [
+        "Darin R. Brown",
+        "Trevor Jackson",
+        "James F Cavanagh"
+    ],
+    "License": "CC0",
+    "BIDSVersion": "1.1.1"
 }
