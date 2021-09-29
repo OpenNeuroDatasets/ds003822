@@ -1,0 +1,11 @@
+{
+  "Name": "ProbabilisticSelection",
+  "ReferencesAndLinks": ["pending"],
+  "Authors": [
+    "Darin R. Brown",
+    "Trevor Jackson",
+    "James F Cavanagh"
+  ],
+  "License": "",
+  "BIDSVersion": "1.1.1"
+}
