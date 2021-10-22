@@ -1,0 +1,1076 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+157.3340000000	n/a	n/a	STATUS	n/a	n/a	S111
+164.8080000000	n/a	n/a	STATUS	n/a	n/a	S111
+172.2880000000	n/a	n/a	STATUS	n/a	n/a	S111
+232.2920000000	n/a	n/a	STATUS	n/a	n/a	S111
+238.9520000000	n/a	n/a	STATUS	n/a	n/a	S111
+245.8480000000	n/a	n/a	STATUS	n/a	n/a	S111
+397.6340000000	n/a	n/a	STATUS	n/a	n/a	S111
+405.8420000000	n/a	n/a	STATUS	n/a	n/a	S111
+411.9980000000	n/a	n/a	STATUS	n/a	n/a	S111
+419.8820000000	n/a	n/a	STATUS	n/a	n/a	S111
+427.4260000000	n/a	n/a	STATUS	n/a	n/a	S111
+433.5860000000	n/a	n/a	STATUS	n/a	n/a	S111
+441.0060000000	n/a	n/a	STATUS	n/a	n/a	S111
+448.1620000000	n/a	n/a	STATUS	n/a	n/a	S111
+455.4980000000	n/a	n/a	STATUS	n/a	n/a	S111
+516.9380000000	n/a	n/a	STATUS	n/a	n/a	S111
+524.9860000000	n/a	n/a	STATUS	n/a	n/a	S111
+531.4380000000	n/a	n/a	STATUS	n/a	n/a	S111
+537.6640000000	n/a	n/a	STATUS	n/a	n/a	S111
+544.2560000000	n/a	n/a	STATUS	n/a	n/a	S111
+551.2920000000	n/a	n/a	STATUS	n/a	n/a	S111
+556.4000000000	n/a	n/a	STATUS	n/a	n/a	S111
+563.2120000000	n/a	n/a	STATUS	n/a	n/a	S111
+572.4360000000	n/a	n/a	STATUS	n/a	n/a	S111
+580.1800000000	n/a	n/a	STATUS	n/a	n/a	S111
+587.7600000000	n/a	n/a	STATUS	n/a	n/a	S111
+593.2600000000	n/a	n/a	STATUS	n/a	n/a	S111
+739.8480000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+744.5940000000	n/a	n/a	Right Button	n/a	n/a	S 20
+744.6460000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+745.6700000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+747.6540000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+749.8560000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+752.5620000000	n/a	n/a	Right Button	n/a	n/a	S 20
+752.6120000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+753.5080000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+755.4100000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+757.9120000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+759.4260000000	n/a	n/a	Right Button	n/a	n/a	S 20
+759.4760000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+760.4300000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+762.3820000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+764.4180000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+766.8900000000	n/a	n/a	Right Button	n/a	n/a	S 20
+766.9400000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+767.5860000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+769.2380000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+771.2720000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+772.5100000000	n/a	n/a	Right Button	n/a	n/a	S 20
+772.5600000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+773.1400000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+774.7260000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+776.5940000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+777.9140000000	n/a	n/a	Left Button	n/a	n/a	S 10
+777.9640000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+778.5780000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+780.1960000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+782.2480000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+783.2620000000	n/a	n/a	Right Button	n/a	n/a	S 20
+783.3120000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+784.2320000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+786.1500000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+788.5200000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+791.2500000000	n/a	n/a	Left Button	n/a	n/a	S 10
+791.3000000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+792.1720000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+794.0400000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+796.0080000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+797.1820000000	n/a	n/a	Right Button	n/a	n/a	S 20
+797.2320000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+798.2940000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+800.3620000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+802.7960000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+806.0500000000	n/a	n/a	Right Button	n/a	n/a	S 20
+806.1000000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+806.8500000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+808.6020000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+811.0860000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+812.9300000000	n/a	n/a	Right Button	n/a	n/a	S 20
+812.9800000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+813.8880000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+815.8060000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+817.7740000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+820.2940000000	n/a	n/a	Left Button	n/a	n/a	S 10
+820.3440000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+821.4120000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+823.4960000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+825.4980000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+827.8980000000	n/a	n/a	Right Button	n/a	n/a	S 20
+827.9480000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+828.9660000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+830.9860000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+833.5200000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+836.2420000000	n/a	n/a	Right Button	n/a	n/a	S 20
+836.2920000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+836.9060000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+838.5240000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+840.5260000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+841.7860000000	n/a	n/a	Right Button	n/a	n/a	S 20
+841.8360000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+842.4280000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+844.0280000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+846.3800000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+846.5060000000	n/a	n/a	Left Button	n/a	n/a	S 10
+846.5560000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+847.4140000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+849.2820000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+851.3000000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+853.5660000000	n/a	n/a	Right Button	n/a	n/a	S 20
+853.6160000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+854.6360000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+856.6540000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+859.0560000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+861.8260000000	n/a	n/a	Right Button	n/a	n/a	S 20
+861.8760000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+862.7600000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+864.6440000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+866.8800000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+868.5700000000	n/a	n/a	Left Button	n/a	n/a	S 10
+868.6200000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+869.4480000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+871.3000000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+873.5840000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+877.3540000000	n/a	n/a	Right Button	n/a	n/a	S 20
+877.4040000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+878.0040000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+879.6060000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+881.5740000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+884.8220000000	n/a	n/a	Left Button	n/a	n/a	S 10
+884.8720000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+885.5940000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+887.3120000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+889.8460000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+892.1260000000	n/a	n/a	Right Button	n/a	n/a	S 20
+892.1760000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+893.0500000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+894.9340000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+896.8680000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+900.5420000000	n/a	n/a	Left Button	n/a	n/a	S 10
+900.5920000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+901.3060000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+903.0240000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+905.4080000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+908.5680000000	n/a	n/a	Right Button	n/a	n/a	S 20
+908.6200000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+909.5120000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+911.4140000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+913.6660000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+914.8160000000	n/a	n/a	Right Button	n/a	n/a	S 20
+914.8680000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+915.6500000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+917.4340000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+919.4700000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+922.5040000000	n/a	n/a	Right Button	n/a	n/a	S 20
+922.5540000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+923.5400000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+925.5240000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+927.6600000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+930.2560000000	n/a	n/a	Left Button	n/a	n/a	S 10
+930.3060000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+931.2780000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+933.2460000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+935.4160000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+938.4000000000	n/a	n/a	Left Button	n/a	n/a	S 10
+938.4500000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+939.1680000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+940.8860000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+943.3720000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+948.0600000000	n/a	n/a	Right Button	n/a	n/a	S 20
+948.1100000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+948.7420000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+950.3760000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+952.5780000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+954.7000000000	n/a	n/a	Left Button	n/a	n/a	S 10
+954.7500000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+955.5800000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+957.4160000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+959.7340000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+965.3960000000	n/a	n/a	Right Button	n/a	n/a	S 20
+965.4460000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+966.3880000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+968.3400000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+970.8580000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+973.5920000000	n/a	n/a	Right Button	n/a	n/a	S 20
+973.6420000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+974.2620000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+975.8800000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+977.9820000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+980.4160000000	n/a	n/a	Right Button	n/a	n/a	S 20
+980.4660000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+981.3340000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+983.2020000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+985.3700000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+991.9920000000	n/a	n/a	Left Button	n/a	n/a	S 10
+992.0420000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+993.1100000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+995.1780000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+997.7120000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+999.1480000000	n/a	n/a	Left Button	n/a	n/a	S 10
+999.1980000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1000.1820000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1002.1660000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+1004.7340000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1010.8360000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1010.8860000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1011.9240000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1013.9760000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1016.3280000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1020.3160000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1020.3660000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1021.2640000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1023.1660000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1025.5340000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1026.9880000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1027.0380000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1027.9200000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1029.8040000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1032.0400000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1035.7920000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1035.8420000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1036.9100000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1038.9780000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1041.1120000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1042.4600000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1042.5100000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1043.3980000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1045.2820000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1047.8020000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1048.7560000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1048.8060000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1049.6860000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1051.5700000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1054.0720000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1058.6960000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1058.7460000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1059.8280000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1061.9120000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1063.8800000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1065.9640000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1066.0140000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1066.8320000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1068.6500000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1071.1360000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1073.4160000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1073.4660000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1074.3880000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1076.3400000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1078.4080000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1086.6840000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1086.7340000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1087.3820000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1089.0320000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1091.4840000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1092.5960000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1092.6460000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1093.4360000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1095.2380000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1097.4900000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1101.8420000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1101.8920000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1102.8760000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1104.8620000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+1107.3300000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1109.0340000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1109.0840000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1110.0820000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1112.0840000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1114.3180000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1115.2020000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1115.2520000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1116.2540000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1118.2560000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1120.8240000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1122.3060000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1122.3560000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1123.4260000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1125.4940000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1127.6960000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1129.2860000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1129.3360000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1130.0980000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1131.8660000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1134.0180000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1137.2500000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1137.3000000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1138.1380000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1139.9720000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1141.8400000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1150.8740000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1150.9240000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1151.6140000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1153.3160000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+1155.4340000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1158.6980000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1158.7480000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1159.3540000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1160.9540000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1163.2900000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1168.6540000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1168.7040000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1169.6120000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1171.5300000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1173.8320000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1182.2420000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1182.2920000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1182.9380000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1184.5900000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1186.7240000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1190.0380000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1190.0880000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1190.9780000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1192.8800000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1195.3820000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1198.1700000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1198.2200000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1199.0180000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1200.8180000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+1203.2380000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1208.3460000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1208.3960000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1209.2080000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1211.0440000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1213.3120000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1215.4540000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1215.5040000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1216.1980000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1217.8980000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1220.4500000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1226.7460000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1226.7960000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1227.8220000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1229.8580000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+1232.3920000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1236.1660000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1236.2160000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1237.2300000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1239.2480000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1241.4160000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1244.9460000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1244.9960000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1245.9700000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1247.9720000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1249.9740000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1254.4020000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1254.4520000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1255.0440000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1256.6440000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1258.4800000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1260.3260000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1260.3760000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1261.2660000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1263.1660000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1265.4520000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1268.3060000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1268.3560000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1268.9700000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1270.5880000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1272.7580000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1274.9920000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1275.0440000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1275.8420000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1277.6440000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1279.6620000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1281.5880000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1281.6400000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1282.2140000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1283.7980000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1285.9000000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1287.9640000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1288.0140000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1288.7020000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1290.3880000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1292.3720000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1293.5920000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1293.6420000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1294.2560000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1295.8740000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1297.9100000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1299.8440000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1299.8940000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1300.5620000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1302.2300000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1304.1140000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1306.3320000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1306.3820000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1307.2840000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1309.1860000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+1311.3540000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1314.3960000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1314.4460000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1315.2400000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1317.0420000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1319.2760000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1323.0800000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1323.1300000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1323.8460000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1325.5640000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1327.7320000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1329.8120000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1329.8620000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1330.6340000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1332.4020000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1334.2540000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1338.9560000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1339.0060000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1339.6580000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1341.3260000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1343.7440000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1345.6480000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1345.6980000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1346.6140000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1348.5320000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1350.9680000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1354.5800000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1354.6300000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1355.3380000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1357.0560000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1358.8900000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1360.9840000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1361.0340000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1361.9920000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1363.9600000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+1366.5300000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1370.8840000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1370.9340000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1371.6320000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1373.3340000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1375.1860000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1380.2440000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1380.2940000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1381.0560000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1382.8240000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1384.7440000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1386.9880000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1387.0380000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1387.8620000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1389.6960000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+1392.2660000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1394.6360000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1394.6860000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1395.6840000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1397.6860000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1399.7720000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1401.8360000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1401.8860000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1402.5900000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1404.2920000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1406.2420000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1408.1200000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1408.1700000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1409.1780000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1411.1960000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1413.0640000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1415.8240000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1415.8740000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1416.9180000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1418.9700000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+1421.1040000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1424.7280000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1424.7780000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1425.3740000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1426.9760000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1429.3280000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1432.4400000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1432.4900000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1433.2140000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1434.9480000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1436.8000000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1441.4960000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1441.5460000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1442.5040000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1444.4720000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+1446.5900000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1450.9720000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1451.0220000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1451.6280000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1453.2460000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+1455.5640000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1458.6460000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1458.6980000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1459.7340000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1461.7680000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1464.1040000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1465.2660000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1465.3180000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1466.3560000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1468.3900000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1470.5760000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1471.9500000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1472.0000000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1472.7600000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1474.5280000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1476.8980000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1479.1820000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1479.2320000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1479.9820000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1481.7340000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1484.2200000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1486.2460000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1486.2960000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1487.0380000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1488.7900000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1491.2920000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1493.1780000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1493.2280000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1494.1440000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1496.0620000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+1498.0640000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1505.4300000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1505.4800000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1506.1360000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1507.8040000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1509.8220000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1510.9780000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1511.0280000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1511.9900000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1513.9580000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1516.0600000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1520.7740000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1520.8240000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1521.8320000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1523.8500000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1526.3020000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1528.7380000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1528.7880000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1529.5880000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1531.3880000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1533.4580000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1534.7260000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1534.7760000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1535.4260000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1537.0760000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1539.4780000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1540.2620000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1540.3120000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1541.0300000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1542.7480000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1545.1160000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1547.1900000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1547.2400000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1548.2180000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1550.2040000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1552.1720000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1553.4820000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1553.5320000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1554.5240000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1556.5240000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+1558.9260000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1561.3820000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1561.4320000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1562.4620000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1564.4980000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+1567.0320000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1571.5820000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1571.6320000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1572.2200000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1573.8040000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1575.8900000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1576.1980000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1576.2480000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1577.1080000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1578.9760000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1581.1760000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1584.1940000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1584.2440000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1585.0800000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1586.9140000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1588.9160000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1591.0220000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1591.0720000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1591.8020000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1593.5360000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1595.9540000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1597.9380000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1597.9880000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1598.6080000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1600.2240000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1602.6760000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1605.1580000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1605.2080000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1605.8620000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1607.5140000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1609.5480000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1611.3740000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1611.4240000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1612.4500000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1614.4860000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1616.8720000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1619.2140000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1619.2640000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1620.1900000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1622.1240000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+1624.6600000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1626.3540000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1626.4040000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1627.1620000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1628.9300000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1631.3160000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1635.8380000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1635.8880000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1636.9200000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1638.9540000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1641.2400000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1643.4680000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1643.5200000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1644.5080000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1646.5100000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1648.8960000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1652.5640000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1652.6140000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1653.1980000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1654.7840000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1656.9180000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1659.1040000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1659.1540000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1659.8200000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1661.4880000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1663.7560000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1668.3440000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1668.3940000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1669.3940000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1671.3960000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+1673.7820000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1675.3560000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1675.4060000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1676.4500000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1678.5180000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1680.9860000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1683.6400000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1683.6900000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1684.3900000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1686.0900000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1688.3420000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1689.6400000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1689.6900000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1690.2780000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1691.8620000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1693.7300000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1697.3280000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1697.3780000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1698.2160000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1700.0520000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1701.8860000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1704.5920000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1704.6420000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1705.3380000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1707.0400000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1709.1080000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1712.0280000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1712.0780000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1712.6620000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1714.2460000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1716.5800000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1719.4080000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1719.4580000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1720.0840000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1721.7180000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1724.0700000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1728.2400000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1728.2900000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1729.0900000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1730.8920000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+1733.3600000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1737.7640000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1737.8140000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1738.6640000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1740.5160000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1742.6340000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1744.1920000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1744.2420000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1744.9020000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1746.5700000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1748.9720000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1750.6880000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1750.7380000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1751.3740000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1753.0080000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1755.2100000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1756.9000000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1756.9500000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1757.5460000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1759.1460000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1761.3160000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1764.2320000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1764.2820000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1765.2840000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1767.2860000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1769.6040000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1773.4840000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1773.5340000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1774.1420000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1775.7760000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1777.9440000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1780.0320000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1780.0820000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1781.0460000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1783.0160000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1785.1160000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1787.6880000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1787.7380000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1788.6520000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1790.5700000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1792.7400000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1796.1040000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1796.1540000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1796.8420000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1798.5440000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+1800.6280000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1803.0600000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1803.1100000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1803.8640000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1805.6160000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1807.9340000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1808.7720000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1808.8220000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1809.8520000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1811.8880000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1814.3900000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1815.8000000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1815.8500000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1816.7580000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1818.6760000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1820.6440000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1821.3420000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1821.3940000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1822.3620000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1824.3300000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+1826.8480000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1828.6980000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1828.7500000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1829.5680000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1831.3860000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1833.4880000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1834.8860000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1834.9360000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1835.5220000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1837.1060000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1839.0240000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1840.4580000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1840.5080000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1841.1760000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1842.8440000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1844.8620000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1846.6780000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1846.7280000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1847.4980000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1849.2660000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1851.7180000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1854.5380000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1854.5880000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1855.5200000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1857.4560000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1859.6900000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1862.9380000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1862.9880000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1863.7100000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1865.4280000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1867.2620000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1868.9540000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1869.0040000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1869.7820000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1871.5660000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1874.1340000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1875.2780000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1875.3280000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1876.3700000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1878.4220000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1880.6560000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1886.6660000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1886.7160000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1887.5780000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1889.4460000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1891.5980000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1893.4580000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1893.5080000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1894.2680000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1896.0360000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1898.0540000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1899.2660000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1899.3160000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1899.9720000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1901.6220000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1903.5400000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1904.4900000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1904.5400000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1905.3760000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1907.2100000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1909.4120000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1910.4420000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1910.4920000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1911.2960000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1913.0980000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1915.2500000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1916.1540000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1916.2040000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1917.0020000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1918.8020000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1920.6380000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1921.6740000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1921.7240000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1922.6880000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1924.6560000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1926.8260000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1927.7700000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1927.8200000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1928.8760000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1930.9460000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1933.0800000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1935.1020000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1935.1520000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1936.2160000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1938.2840000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1940.7360000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1943.8820000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1943.9320000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1944.9720000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1947.0240000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1949.2920000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1950.5180000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1950.5680000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1951.6100000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1953.6620000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+1956.0480000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1957.4180000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1957.4680000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1958.0820000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1959.7180000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+1961.5860000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1964.2460000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1964.2960000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1965.1720000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1967.0560000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+1969.0240000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+1969.9740000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1970.0240000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1970.9420000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+1972.8600000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+1974.8280000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1975.8780000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1975.9280000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1976.9300000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1978.9320000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1981.0340000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+1981.9060000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1981.9560000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1982.5840000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+1984.2200000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+1986.1380000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+1987.7340000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1987.7840000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+1988.7400000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+1990.7080000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+1993.0420000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1993.7900000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1993.8400000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+1994.8940000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+1996.9460000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+1998.7800000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+1999.6700000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1999.7200000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2000.6320000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+2002.5500000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+2004.8360000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+2005.5920000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2005.6440000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2006.4540000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+2008.2720000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+2010.3220000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+2011.7600000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2011.8100000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+2012.5580000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2014.3100000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+2016.2940000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+2016.9600000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2017.0100000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+2017.7280000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2019.4460000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+2021.5820000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+2022.6000000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2022.6500000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2023.3320000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+2025.0180000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+2026.8680000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+2028.7640000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2028.8140000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+2029.7200000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+2031.6220000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+2033.8240000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+2034.7280000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2034.7780000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2035.7920000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+2037.8100000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+2040.0280000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+2040.1520000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2040.2020000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2040.8960000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+2042.5980000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+2044.4980000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+2046.0160000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2046.0660000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+2046.8680000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+2048.6680000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+2050.5860000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+2054.2800000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2054.3300000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2055.0400000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+2056.7580000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+2059.0440000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+2060.0680000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2060.1180000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2060.6940000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2062.2800000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+2064.6640000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+2065.9640000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2066.0140000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2067.0660000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2069.1180000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+2071.1860000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+2073.9120000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2073.9620000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2074.9060000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+2076.8580000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+2078.7920000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+2079.8040000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2079.8540000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2080.4760000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+2082.0940000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+2084.6460000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+2086.1840000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2086.2340000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+2087.1980000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2089.1660000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+2091.5840000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+2092.7200000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2092.7700000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2093.5200000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+2095.2720000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+2097.4060000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+2099.3440000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2099.3940000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2100.4260000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2102.4600000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+2104.2940000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+2104.9400000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2104.9900000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2105.8800000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2107.7640000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+2110.2000000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+2112.8440000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2112.8940000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2113.5680000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2115.2540000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+2117.8060000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+2119.6920000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2119.7420000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+2120.7740000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2122.8080000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+2124.9780000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+2128.6200000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2128.6700000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2129.6800000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2131.6980000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+2133.8340000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+2134.8200000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2134.8700000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2135.6180000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+2137.3700000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+2139.3380000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+2141.9320000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2141.9820000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+2142.6080000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+2144.2420000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+2146.7780000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+2150.8760000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2150.9260000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2151.9320000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+2153.9320000000	n/a	n/a	FB type: CHAIR (win)	n/a	n/a	S107
+2156.4520000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+2159.4400000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2159.4900000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2160.3540000000	n/a	n/a	FB cue: Pic Win	n/a	n/a	S 53
+2162.2220000000	n/a	n/a	FB type: PUPPY (win)	n/a	n/a	S105
+2164.2080000000	n/a	n/a	CUE: D - avoid picture loss	n/a	n/a	S  4
+2165.5720000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2165.6220000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+2166.4100000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+2168.1940000000	n/a	n/a	FB type: NEG PIC (lose)	n/a	n/a	S108
+2170.5280000000	n/a	n/a	CUE: C - win picture	n/a	n/a	S  3
+2174.0440000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2174.0940000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2174.9660000000	n/a	n/a	FB cue: Pic Lose	n/a	n/a	S 54
+2176.8340000000	n/a	n/a	FB type: CHAIR (lose)	n/a	n/a	S106
+2178.9680000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+2183.0360000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2183.0860000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2184.0900000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2186.0900000000	n/a	n/a	FB type: POINT (lose)	n/a	n/a	S104
+2188.1760000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+2190.4060000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2190.4580000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2191.2440000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2193.0300000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+2195.0800000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+2198.6620000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2198.7120000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+2199.4520000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+2201.1860000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+2203.1880000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+2204.7100000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2204.7600000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2205.7220000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+2207.7080000000	n/a	n/a	FB type: POINT (win)	n/a	n/a	S101
+2210.0420000000	n/a	n/a	CUE: B - avoid point loss	n/a	n/a	S  2
+2210.8020000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2210.8520000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+2211.8940000000	n/a	n/a	FB cue: Point Win	n/a	n/a	S 51
+2213.9460000000	n/a	n/a	FB type: NULL BAR (win)	n/a	n/a	S103
+2216.1980000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+2218.1740000000	n/a	n/a	Right Button	n/a	n/a	S 20
+2218.2240000000	n/a	n/a	Response Inaccurate	n/a	n/a	S200
+2218.9320000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2220.6500000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+2222.8180000000	n/a	n/a	CUE: A - win point	n/a	n/a	S  1
+2223.9140000000	n/a	n/a	Left Button	n/a	n/a	S 10
+2223.9640000000	n/a	n/a	Response Accurate	n/a	n/a	S201
+2224.7540000000	n/a	n/a	FB cue: Point Lose	n/a	n/a	S 52
+2226.5380000000	n/a	n/a	FB type: NULL BAR (lose)	n/a	n/a	S102
+2255.6380000000	n/a	n/a	STATUS	n/a	n/a	S110
+2259.2780000000	n/a	n/a	STATUS	n/a	n/a	S120
+2262.1100000000	n/a	n/a	STATUS	n/a	n/a	S110
+2264.1500000000	n/a	n/a	STATUS	n/a	n/a	S110
+2267.8860000000	n/a	n/a	STATUS	n/a	n/a	S110
+2269.9660000000	n/a	n/a	STATUS	n/a	n/a	S120
+2274.4460000000	n/a	n/a	STATUS	n/a	n/a	S120
+2276.3980000000	n/a	n/a	STATUS	n/a	n/a	S120
+2278.3500000000	n/a	n/a	STATUS	n/a	n/a	S110
+2281.0620000000	n/a	n/a	STATUS	n/a	n/a	S110
+2284.5660000000	n/a	n/a	STATUS	n/a	n/a	S120
+2286.9700000000	n/a	n/a	STATUS	n/a	n/a	S110
+2288.5940000000	n/a	n/a	STATUS	n/a	n/a	S110
+2291.4620000000	n/a	n/a	STATUS	n/a	n/a	S120
+2294.5100000000	n/a	n/a	STATUS	n/a	n/a	S120
+2296.9180000000	n/a	n/a	STATUS	n/a	n/a	S120
+2299.7140000000	n/a	n/a	STATUS	n/a	n/a	S110
+2302.2180000000	n/a	n/a	STATUS	n/a	n/a	S120
+2303.9180000000	n/a	n/a	STATUS	n/a	n/a	S110
+2306.2660000000	n/a	n/a	STATUS	n/a	n/a	S120
+2308.9340000000	n/a	n/a	STATUS	n/a	n/a	S110
+2311.8140000000	n/a	n/a	STATUS	n/a	n/a	S110
+2314.0860000000	n/a	n/a	STATUS	n/a	n/a	S110
+2316.3140000000	n/a	n/a	STATUS	n/a	n/a	S120
+2318.3300000000	n/a	n/a	STATUS	n/a	n/a	S110
+2320.1740000000	n/a	n/a	STATUS	n/a	n/a	S120
+2322.9100000000	n/a	n/a	STATUS	n/a	n/a	S110
+2324.9300000000	n/a	n/a	STATUS	n/a	n/a	S110
+2327.1460000000	n/a	n/a	STATUS	n/a	n/a	S120
+2329.0220000000	n/a	n/a	STATUS	n/a	n/a	S120
+2332.4580000000	n/a	n/a	STATUS	n/a	n/a	S110
+2334.5540000000	n/a	n/a	STATUS	n/a	n/a	S120
+2337.7700000000	n/a	n/a	STATUS	n/a	n/a	S120
+2339.3060000000	n/a	n/a	STATUS	n/a	n/a	S120
+2341.0020000000	n/a	n/a	STATUS	n/a	n/a	S110
+2342.6220000000	n/a	n/a	STATUS	n/a	n/a	S120
+2345.3980000000	n/a	n/a	STATUS	n/a	n/a	S120
+2347.8020000000	n/a	n/a	STATUS	n/a	n/a	S120
+2350.0180000000	n/a	n/a	STATUS	n/a	n/a	S110
+2357.8580000000	n/a	n/a	STATUS	n/a	n/a	S120
+2362.9340000000	n/a	n/a	STATUS	n/a	n/a	S110
+2365.9560000000	n/a	n/a	STATUS	n/a	n/a	S120
+2368.7040000000	n/a	n/a	STATUS	n/a	n/a	S110
+2372.5200000000	n/a	n/a	STATUS	n/a	n/a	S120
+2375.1240000000	n/a	n/a	STATUS	n/a	n/a	S120
+2378.1440000000	n/a	n/a	STATUS	n/a	n/a	S110
+2381.0200000000	n/a	n/a	STATUS	n/a	n/a	S120
